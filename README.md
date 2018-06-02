@@ -6,6 +6,8 @@ Peter and I decided to build a mini car using Arduino that its motion is control
 ![img_1934](https://user-images.githubusercontent.com/33791310/40880253-333bca82-667b-11e8-8c39-77aeb965393d.jpg)
 
 
+Youtube link to see actual running:
+https://youtu.be/tLRhheRjBR8
 ## Hardware Components
 Arduino Uno board  
 Electret Microphone Amplifier - MAX4466  
