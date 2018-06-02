@@ -3,7 +3,8 @@ The Capstone Experience is an independent project completed by all Hun Seniors a
 ## Mini Car 
 Peter and I decided to build a mini car using Arduino that its motion is controlled by the music(notes/ frequencies) played by his soprano saxophone. The main algorithm we used was the FFT(Fast Fourier Transform), which computes the DFT(Discrete Fourier Transform).
 
-IMG HERE
+![img_1934](https://user-images.githubusercontent.com/33791310/40880253-333bca82-667b-11e8-8c39-77aeb965393d.jpg)
+
 
 ## References and library
 This arduinoFFT library is suitable for our purpose with great consistency and accurarcy -- 
