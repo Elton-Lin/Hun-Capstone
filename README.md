@@ -24,5 +24,5 @@ And some helpful articles throughout the building proccess:
 Example code and graphs to show results --  
 https://www.norwegiancreations.com/2017/08/what-is-fft-and-how-can-you-implement-it-on-an-arduino/
 
-Very good explaination of the FFT and DFT although it is in Matlab --  
+Very good explaination of the FFT and DFT, but it is in Matlab --  
 https://www.gaussianwaves.com/2015/11/interpreting-fft-results-complex-dft-frequency-bins-and-fftshift/
