@@ -15,7 +15,7 @@ FA-130 Motors
 L9910 Motor Dual-Channel H-Bridge Motor Driver Module  
 Plastic Chassis and wheels  
 
-## References and library
+## References and Libraries
 This arduinoFFT library is suitable for our purpose with great consistency and accurarcy -- 
 https://github.com/kosme/arduinoFFT
 
